@@ -17,8 +17,15 @@ jobs:
       - run: yarn test
         env:
             CI: true
-      - name: Release
+      - name: Semantic Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: npx semantic-release
+      - name: Deploy to Surge platform
+        uses: dswistowski/surge-sh-action@v1
+        with:
+          domain: 'ci-cd-frontend-blueprint.surge.sh'
+          project: './build'
+          login: ${{ secrets.SURGE_LOGIN }}
+          token: ${{ secrets.SURGE_TOKEN }}
