@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/jozsefDevs/ci-cd-frontend-blueprint/compare/v1.0.0...v1.1.0) (2020-03-19)
+
+
+### Features
+
+* **surge:** auto deploy staging + prod build to Surge ([2faceb0](https://github.com/jozsefDevs/ci-cd-frontend-blueprint/commit/2faceb08c8f404b73f47e43cee8f1a6249883874))
+
 # 1.0.0 (2020-03-19)
 
 
