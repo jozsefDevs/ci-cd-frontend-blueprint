@@ -11,3 +11,4 @@ replaced by any type of FE project. So this is optional, just there to be able t
 happens we auto-generate a `CHANGELOG.md` and also updating the `package.json` with the correct version number. 
 - [Github Actions](https://github.com/features/actions) used for simplified install + build + test stages on `develop`
 and `master` branches.
+- [Surge.sh](https://surge.sh) used for quick and hassle-free deployment for the frontend project
