@@ -40,6 +40,10 @@
     "husky": "^4.2.3",
     "semantic-release": "^17.0.4"
   },
+  "engines": {
+    "node": ">=12.16.0",
+    "yarn": ">=1.21.1"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/jozsefDevs/ci-cd-frontend-blueprint.git"
