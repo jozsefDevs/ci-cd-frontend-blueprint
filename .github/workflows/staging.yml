@@ -1,17 +1,11 @@
-name: Boilerplate Staging Build
-
+name: Blueprint Staging Build
 on:
   push:
-    branches: [ develop ]
-
+    branches:
+      - develop
 jobs:
   build:
-    runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [12.x]
-
+    runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
