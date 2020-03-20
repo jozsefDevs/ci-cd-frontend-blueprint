@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/jozsefDevs/ci-cd-frontend-blueprint/compare/v1.1.0...v1.1.1) (2020-03-20)
+
+
+### Bug Fixes
+
+* **readme:** reamde update + sync workflow files better ([#3](https://github.com/jozsefDevs/ci-cd-frontend-blueprint/issues/3)) ([952b0e5](https://github.com/jozsefDevs/ci-cd-frontend-blueprint/commit/952b0e5324c50f74d2759249960ecca99492f275))
+
 # [1.1.0](https://github.com/jozsefDevs/ci-cd-frontend-blueprint/compare/v1.0.0...v1.1.0) (2020-03-19)
 
 
