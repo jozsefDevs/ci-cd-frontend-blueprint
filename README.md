@@ -3,7 +3,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Thus you can use 
 the usual scripts. However this repo rather focuses on the CI/CD set up, having a changelog generated, etc.
 
-## Features 🚀:
+## Structure
+This repo was built with step-by-step commits, so if you read through `CHANGELOG.md` (on `master` branch) each
+commit describing a new feature, so it should be easy to reproduce. 
+
+## Features 🚀
 - A [Create React App](https://github.com/facebook/create-react-app) project is inside the src/ but that should be 
 replaced by any type of FE project. So this is optional, just there to be able to build the project.
 - [Commitlint](https://commitlint.js.org/#/) is ensuring that every commit msg. follows the same conventions
