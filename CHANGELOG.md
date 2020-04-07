@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/jozsefDevs/ci-cd-frontend-blueprint/compare/v1.1.1...v1.1.2) (2020-04-07)
+
+
+### Bug Fixes
+
+* **npmjs-slowdowns:** fix for actions/setup-node[#132](https://github.com/jozsefDevs/ci-cd-frontend-blueprint/issues/132) ([ffcf121](https://github.com/jozsefDevs/ci-cd-frontend-blueprint/commit/ffcf1217ae248dd04c01e2447afe42b4a371d48c))
+
 ## [1.1.1](https://github.com/jozsefDevs/ci-cd-frontend-blueprint/compare/v1.1.0...v1.1.1) (2020-03-20)
 
 
