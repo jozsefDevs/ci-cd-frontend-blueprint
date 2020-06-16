@@ -1,3 +1,18 @@
+## [1.1.3](https://github.com/jozsefDevs/ci-cd-frontend-blueprint/compare/v1.1.2...v1.1.3) (2020-06-16)
+
+
+### Bug Fixes
+
+* **dependabot:** adding automated install+build+test upon dependabot PRs ([3ae26f0](https://github.com/jozsefDevs/ci-cd-frontend-blueprint/commit/3ae26f02e4a3ce380cd24b366dd5367a43bb5f2c))
+* **deps:** update all non-major dependencies ([181a86a](https://github.com/jozsefDevs/ci-cd-frontend-blueprint/commit/181a86a9d3a65c2f709fa481266556e1e4365172))
+* **deps:** update all non-major dependencies ([777762f](https://github.com/jozsefDevs/ci-cd-frontend-blueprint/commit/777762f4493ad64e5fff7f79717497e19dbd3cf9))
+* **deps:** update all non-major dependencies ([21d1e39](https://github.com/jozsefDevs/ci-cd-frontend-blueprint/commit/21d1e393d787ad67546f5730428db1af3bcadfb5))
+* **deps:** update dependency @testing-library/jest-dom to v5 ([ff49817](https://github.com/jozsefDevs/ci-cd-frontend-blueprint/commit/ff498172106c7391e8bf993a7382090e154cde90))
+* **deps:** update dependency @testing-library/react to v10 ([8c658dc](https://github.com/jozsefDevs/ci-cd-frontend-blueprint/commit/8c658dc34174fcc1ac660def96936859e676b362))
+* **deps:** update dependency @testing-library/react to v10.0.4 ([c040c2e](https://github.com/jozsefDevs/ci-cd-frontend-blueprint/commit/c040c2e4afb2e45fd3cbe10ac8d845a411287565))
+* **deps:** update dependency @testing-library/user-event to v10 ([58b232d](https://github.com/jozsefDevs/ci-cd-frontend-blueprint/commit/58b232d6070b783d8cb88f0f797cef3012ea346b))
+* **renovate:** update Renovte config to a more friendly one ([b911181](https://github.com/jozsefDevs/ci-cd-frontend-blueprint/commit/b91118135ebafa2131db3e427038937976e63c69))
+
 ## [1.1.2](https://github.com/jozsefDevs/ci-cd-frontend-blueprint/compare/v1.1.1...v1.1.2) (2020-04-07)
 
 
